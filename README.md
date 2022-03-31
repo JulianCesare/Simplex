@@ -1,1 +1,1 @@
-# Simplex
+# Simplex Giga Solver
